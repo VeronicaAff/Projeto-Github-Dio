@@ -1,0 +1,5 @@
+Comandos Básicos do Git:
+
+cs
+ls
+git clone + link + enter = Baixar repositório
